@@ -1,0 +1,3 @@
+all:
+	g++ prog_3.cpp 
+    a.out 5 5
