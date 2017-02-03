@@ -1,5 +1,5 @@
 all:
-	g++ run_facts.cpp state_facts.cpp
-	a.out -s 2 -f file.txt
- clean: 
-	rm -f *.out *.o  
+	g++ Ant.cpp Ant.h Graph.h main.cpp -o run
+    
+clean:
+	rm -f *.out *.o run

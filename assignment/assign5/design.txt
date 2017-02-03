@@ -1,0 +1,19 @@
+Space/room
+- start
+- hp+
+- hp-
+- stop
+- random_item
+- wall
+
+item
+- hp+(point/size)
+
+player
+- hp
+- current room
+- bag(list)
+- bagmax
+
+
+
