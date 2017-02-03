@@ -1,1 +1,0 @@
-int determinant(int array[][3],int choice);
