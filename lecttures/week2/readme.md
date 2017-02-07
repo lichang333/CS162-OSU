@@ -20,12 +20,14 @@ OOAD = Object Oriented Analysis and Design
 
 #### Part 1: Overview
 > http://web.engr.oregonstate.edu/~rookert/cs162/OOAD_Overview.mp4
+
 Duration - 8:06
 
  
 
 #### Part 2: Finding Classes
 > http://web.engr.oregonstate.edu/~rookert/cs162/OOAD_Finding_Classes.mp4
+
 Decomposition as done with classes.  
 Duration - 17:52
 
@@ -33,4 +35,5 @@ Duration - 17:52
 
 #### Part 3: Example
 > http://web.engr.oregonstate.edu/~rookert/cs162/OOAD_Example.mp4
+
 Duration-  13:46
